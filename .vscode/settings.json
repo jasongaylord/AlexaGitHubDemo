@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\netcoreapp3.1\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/ac2180a6-204a-4b94-9c99-b76565ad8bfd/resourceGroups/JasonGaylord.com/providers/Microsoft.Web/sites/alexagithubdemo"
+}
